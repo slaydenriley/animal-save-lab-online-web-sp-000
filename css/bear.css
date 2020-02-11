@@ -10,6 +10,6 @@ html {
 
 @media only screen (min-width: 1196px) {
   #bear {
-    padding-left: 800px;
+    left: 800px;
   }
 }
