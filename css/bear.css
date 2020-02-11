@@ -8,7 +8,7 @@ html {
   right: 0;
 }
 
-@media only screen (max-width: 1196px) {
+@media only screen (min-width: 1196px) {
   #bear {
     padding-left: 800px;
   }
